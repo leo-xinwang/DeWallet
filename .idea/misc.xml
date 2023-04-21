@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/code/DeWallet/app/src/main/res/drawable/background_24h_change_green.xml" value="0.1890625" />
+        <entry key="..\:/code/DeWallet/app/src/main/res/drawable/background_bottom_sheet.xml" value="0.1890625" />
+        <entry key="..\:/code/DeWallet/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1890625" />
         <entry key="..\:/code/DeWallet/app/src/main/res/layout/activity_main.xml" value="0.1875" />
         <entry key="..\:/code/DeWallet/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1890625" />
         <entry key="..\:/code/DeWallet/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1890625" />
